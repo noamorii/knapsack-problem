@@ -46,7 +46,7 @@ V případě --solution (příklad):
 | 100   | 1000   |    3   |
 | 250   | 10000   |    9   |
 
-  <h2>🎒 Knihovny: </h2>
+  <h2>📚 Knihovny: </h2>
 
   V projectu byli použity knihovny (ve složce /lib):<br>
   - jsoncpp = pro čtení configurace batohu a itemu ve formatu json, <br>
